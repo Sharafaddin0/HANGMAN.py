@@ -2,6 +2,7 @@
 This program contains codes of hangman game
 # Greetings to the hangman game
 print("Welcome to the HANGMAN!")
+
 from replit import clear
 
 import random
